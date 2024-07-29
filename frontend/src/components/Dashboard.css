@@ -1,0 +1,29 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Ensure it takes full viewport height */
+}
+
+.chart-section {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.chart-container {
+  width: 300px; /* Adjust size as needed */
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.dropdown-container {
+  margin-bottom: 20px;
+}
+
+.link-container {
+  margin-top: 20px;
+}

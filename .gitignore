@@ -1,0 +1,11 @@
+# Ignore node_modules directories in the frontend
+frontend/node_modules/
+
+# Other files and directories to ignore
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# Ignore all node_modules in case you have multiple directories
+node_modules/
