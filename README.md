@@ -1,5 +1,7 @@
 # Battery Data Dashboard
 
+Video Link: https://drive.google.com/drive/folders/1OCtVX9TYwgl3Pj2_B7UD4bKZlXKISkrt?usp=sharing
+
 ## Overview
 
 Battery Data Dashboard is a web application designed to visualize battery health and performance metrics. The project includes a backend server to handle data processing and a frontend client to display the data in an intuitive and interactive way.
